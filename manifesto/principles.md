@@ -157,3 +157,16 @@ Capability creates action.
 
 Continuity preserves capability.
 
+
+---
+
+# Principle 3
+
+## Context Creates Meaning
+
+Information without context loses interpretability.
+
+Context transforms information into something usable.
+
+Whenever context disappears, capability becomes vulnerable.
+

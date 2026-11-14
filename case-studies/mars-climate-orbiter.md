@@ -183,9 +183,9 @@ The analysis presented in this case study is based primarily on official NASA in
 
 NASA. Mars Climate Orbiter Mission Summary.
 
-https://science.nasa.gov/mission/mars-climate-orbiter/ 【1-21f27c】
+https://science.nasa.gov/mission/mars-climate-orbiter/ 
 
-According to NASA, the mission failed due to a navigation error caused by a failure to translate English units into metric units, resulting in trajectory calculation errors that sent the spacecraft too close to Mars. 【1-21f27c】【2-d07281】
+According to NASA, the mission failed due to a navigation error caused by a failure to translate English units into metric units, resulting in trajectory calculation errors that sent the spacecraft too close to Mars. 
 
 ---
 
@@ -193,9 +193,9 @@ According to NASA, the mission failed due to a navigation error caused by a fail
 
 NASA. Mars Climate Orbiter Mishap Investigation Board Phase I Report (November 10, 1999).
 
-https://llis.nasa.gov/llis_lib/pdf/1009464main1_0641-mr.pdf 【3-c4f350】
+https://llis.nasa.gov/llis_lib/pdf/1009464main1_0641-mr.pdf 
 
-The investigation board concluded that the root cause was the failure to use metric units within a ground software component used for trajectory modelling. The resulting mismatch introduced cumulative navigation errors throughout the nine-month journey to Mars. 【4-69645a】【3-c4f350】
+The investigation board concluded that the root cause was the failure to use metric units within a ground software component used for trajectory modelling. The resulting mismatch introduced cumulative navigation errors throughout the nine-month journey to Mars. 
 
 ---
 
@@ -203,9 +203,9 @@ The investigation board concluded that the root cause was the failure to use met
 
 NASA Lessons Learned Information System (LLIS), Lesson 641.
 
-https://llis.nasa.gov/lesson/641 【4-69645a】
+https://llis.nasa.gov/lesson/641 
 
-NASA's lessons learned database identifies the root cause as the use of English units instead of metric units in trajectory-related software outputs, resulting in an incorrect estimate of spacecraft position and an approach approximately 170 km lower than planned. 【4-69645a】
+NASA's lessons learned database identifies the root cause as the use of English units instead of metric units in trajectory-related software outputs, resulting in an incorrect estimate of spacecraft position and an approach approximately 170 km lower than planned. 
 
 ---
 
@@ -213,9 +213,9 @@ NASA's lessons learned database identifies the root cause as the use of English 
 
 Report on the Loss of the Mars Climate Orbiter Mission. Jet Propulsion Laboratory Special Review Board.
 
-https://ntrs.nasa.gov/citations/20060043364 【5-8d2b67】
+https://ntrs.nasa.gov/citations/20060043364 
 
-This technical review describes the final mission sequence, loss of signal during Mars Orbit Insertion and the subsequent investigation into the navigation anomaly. 【5-8d2b67】
+This technical review describes the final mission sequence, loss of signal during Mars Orbit Insertion and the subsequent investigation into the navigation anomaly. 
 
 ---
 

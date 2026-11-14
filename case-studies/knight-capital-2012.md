@@ -18,7 +18,7 @@ A deployment inconsistency left one production server running outdated functiona
 
 The resulting behavior generated unintended trading activity on a massive scale.
 
-Approximately 45 minutes later, Knight Capital had accumulated losses exceeding 440 million USD. The incident threatened the organization's survival. 【1-b77d99】【2-da432e】
+Approximately 45 minutes later, Knight Capital had accumulated losses exceeding 440 million USD. The incident threatened the organization's survival. 
 
 
 ---

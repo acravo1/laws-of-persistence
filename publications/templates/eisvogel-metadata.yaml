@@ -1,0 +1,14 @@
+title: "Laws of Persistence"
+author: "António Augusto da Silva Cravo"
+date: "2026"
+
+mainfont: "DejaVu Serif"
+sansfont: "DejaVu Sans"
+monofont: "DejaVu Sans Mono"
+
+fontsize: 11pt
+geometry: margin=2.5cm
+
+toc: true
+numbersections: true
+colorlinks: true

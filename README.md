@@ -1,36 +1,65 @@
 # Laws of Persistence
 
-## Purpose
+> The goal is not to preserve knowledge.
+>
+> The goal is to preserve capability.
+>
+> The ultimate goal is continuity.
 
-The Laws of Persistence propose a simple idea:
+---
 
-The goal is not to preserve knowledge.
+## Overview
 
-The goal is to preserve capability.
+The Laws of Persistence propose a framework for understanding how individuals, organizations, software systems and intelligent agents preserve operational capability over time.
 
-The ultimate goal is continuity.
+The project explores continuity as a higher-order objective than knowledge preservation and introduces a set of principles for reducing fragility caused by loss of context, hidden dependencies and organizational memory decay.
 
-## Core Hypothesis
+---
 
-Bits
-→ Bytes
-→ Data
-→ Information
-→ Knowledge
-→ Wisdom
-→ Capability
-→ Continuity
+## Core Observation
 
-## Repository Structure
+    Loss of Context
+            ↓
+    Loss of Continuity
+            ↓
+    Loss of Capability
 
-- Manifesto
-- Theory
-- Literature
-- Case Studies
-- Applications
-- PAPE Integration
-- AEGIS Integration
+The purpose of the framework is to interrupt this chain.
 
-## Status
+---
 
-Draft v1.0
+## Continuity Hypothesis
+
+The project extends the traditional DIKW hierarchy:
+
+    Data
+    ↓
+    Information
+    ↓
+    Knowledge
+    ↓
+    Wisdom
+    ↓
+    Capability
+    ↓
+    Continuity
+
+---
+
+## Key Contributions
+
+### Laws of Persistence
+
+A set of principles describing the preservation of continuity and capability.
+
+### Continuity Hypothesis
+
+An extension of traditional knowledge hierarchies introducing Capability and Continuity.
+
+### Hidden Knowledge Factory
+
+A model describing invisible knowledge structures that sustain operational capability while remaining outside formal organizational representations.
+
+### Persistence Model
+
+A conceptual framework connecting knowledge, persistence, recoverability, governance and continuity.
