@@ -209,3 +209,65 @@ This case study is primarily associated with:
 - Law 09 — Versioning By Default
 - Law 10 — Explicit Persistence Debt
 
+
+---
+
+# Primary Sources
+
+## U.S. Securities and Exchange Commission (SEC)
+
+In the Matter of Knight Capital Americas LLC.
+
+SEC Release No. 70694, October 16, 2013.
+
+Official SEC Administrative Proceeding:
+
+https://www.sec.gov/files/litigation/admin/2013/34-70694.pdf
+
+The SEC investigation concluded that Knight Capital deployed software inconsistently across its production environment and lacked adequate controls to prevent, detect and mitigate the resulting malfunction.
+
+According to the SEC findings, one of eight servers failed to receive the updated software deployment, causing obsolete trading functionality to become active during production operations.
+
+---
+
+## SEC Findings Relevant to the Laws of Persistence
+
+The SEC identified deficiencies including:
+
+- inadequate deployment controls;
+- inadequate software testing;
+- inadequate change management processes;
+- insufficient safeguards against deployment inconsistency.
+
+These findings directly support:
+
+- Law 03 — Orphan State Detection;
+- Law 08 — Configuration Governance;
+- Law 09 — Versioning by Default;
+- Law 10 — Explicit Persistence Debt.
+
+---
+
+## SEC Interpretation
+
+The incident demonstrates that continuity failures may emerge even when:
+
+- infrastructure exists;
+- software exists;
+- documentation exists;
+- expertise exists.
+
+The critical failure occurred because operational reality diverged from organizational assumptions.
+
+The organization believed all production servers shared the same configuration.
+
+This assumption was incorrect.
+
+The resulting inconsistency remained undetected until capability had already failed.
+
+---
+
+# References
+
+U.S. Securities and Exchange Commission. (2013). In the Matter of Knight Capital Americas LLC. Release No. 70694. Washington, DC: Securities and Exchange Commission.
+

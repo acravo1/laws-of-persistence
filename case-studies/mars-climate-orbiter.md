@@ -172,3 +172,60 @@ Knowledge may survive.
 
 Without shared context, capability may not.
 
+
+---
+
+# Primary Sources
+
+The analysis presented in this case study is based primarily on official NASA investigation material.
+
+## NASA Mission Overview
+
+NASA. Mars Climate Orbiter Mission Summary.
+
+https://science.nasa.gov/mission/mars-climate-orbiter/ 【1-21f27c】
+
+According to NASA, the mission failed due to a navigation error caused by a failure to translate English units into metric units, resulting in trajectory calculation errors that sent the spacecraft too close to Mars. 【1-21f27c】【2-d07281】
+
+---
+
+## NASA Mishap Investigation Board
+
+NASA. Mars Climate Orbiter Mishap Investigation Board Phase I Report (November 10, 1999).
+
+https://llis.nasa.gov/llis_lib/pdf/1009464main1_0641-mr.pdf 【3-c4f350】
+
+The investigation board concluded that the root cause was the failure to use metric units within a ground software component used for trajectory modelling. The resulting mismatch introduced cumulative navigation errors throughout the nine-month journey to Mars. 【4-69645a】【3-c4f350】
+
+---
+
+## NASA Lessons Learned
+
+NASA Lessons Learned Information System (LLIS), Lesson 641.
+
+https://llis.nasa.gov/lesson/641 【4-69645a】
+
+NASA's lessons learned database identifies the root cause as the use of English units instead of metric units in trajectory-related software outputs, resulting in an incorrect estimate of spacecraft position and an approach approximately 170 km lower than planned. 【4-69645a】
+
+---
+
+## NASA Technical Investigation
+
+Report on the Loss of the Mars Climate Orbiter Mission. Jet Propulsion Laboratory Special Review Board.
+
+https://ntrs.nasa.gov/citations/20060043364 【5-8d2b67】
+
+This technical review describes the final mission sequence, loss of signal during Mars Orbit Insertion and the subsequent investigation into the navigation anomaly. 【5-8d2b67】
+
+---
+
+# Relevance to the Laws of Persistence
+
+The Laws of Persistence do not interpret the incident merely as a unit conversion error.
+
+The deeper observation is that information remained available while contextual consistency was lost across organizational and technical boundaries.
+
+The mission demonstrates that preserving data alone is insufficient.
+
+Continuity depends upon preserving context, assumptions and shared understanding.
+
