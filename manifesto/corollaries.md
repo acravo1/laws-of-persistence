@@ -1,128 +1,128 @@
-# Corolários das Leis da Persistência
+# Corollaries of the Laws of Persistence
 
-## Introdução
+## Introduction
 
-Os corolários representam consequências lógicas derivadas das Leis da Persistência.
+The corollaries represent logical consequences derived from the Laws of Persistence.
 
-Enquanto as Leis definem princípios fundamentais, os Corolários traduzem esses princípios em observações práticas diretamente verificáveis em sistemas humanos, organizacionais e tecnológicos.
-
----
-
-# Corolário 1
-
-## Informação sem contexto é funcionalmente equivalente a informação perdida
-
-A mera existência de informação não garante a sua utilidade.
-
-Sempre que o contexto necessário para interpretar a informação não está disponível, essa informação torna-se inutilizável.
-
-Consequentemente:
-
-- documentação sem contexto tem valor reduzido;
-- ficheiros sem proveniência têm valor reduzido;
-- decisões sem justificação perdem significado ao longo do tempo.
+While the Laws define fundamental principles, the Corollaries translate those principles into practical observations that can be directly verified in human, organizational and technological systems.
 
 ---
 
-# Corolário 2
+# Corollary 1
 
-## Conhecimento não documentado constitui dívida de persistência
+## Information Without Context Is Functionally Equivalent to Lost Information
 
-Todo o conhecimento que não foi transformado em representação persistente aumenta o risco de perda de capacidade.
+The mere existence of information does not guarantee its usefulness.
 
-A gravidade dessa dívida é proporcional à importância operacional do conhecimento.
+Whenever the context required to interpret information is unavailable, that information becomes effectively unusable.
 
----
+Consequently:
 
-# Corolário 3
-
-## Um backup não validado é apenas uma hipótese
-
-A existência de backups não constitui evidência de recuperabilidade.
-
-Apenas uma recuperação executada e validada demonstra capacidade de recuperação.
+- documentation without context has reduced value;
+- files without provenance have reduced value;
+- decisions without rationale lose meaning over time.
 
 ---
 
-# Corolário 4
+# Corollary 2
 
-## A memória humana não é uma estratégia de continuidade
+## Undocumented Knowledge Creates Persistence Debt
 
-A memória humana deve ser considerada um mecanismo temporário.
+Any knowledge that has not been transformed into a persistent representation increases the risk of capability loss.
 
-A continuidade exige mecanismos independentes das pessoas.
-
----
-
-# Corolário 5
-
-## Quanto maior o onboarding, maior a Hidden Knowledge Factory
-
-O tempo necessário para integrar uma nova pessoa num sistema é frequentemente um indicador direto da quantidade de conhecimento implícito existente.
-
-Onboardings extensos indicam frequentemente:
-
-- contexto não documentado;
-- dependências invisíveis;
-- conhecimento excessivamente distribuído;
-- dívida de persistência elevada.
+The severity of this debt is proportional to the operational importance of that knowledge.
 
 ---
 
-# Corolário 6
+# Corollary 3
 
-## Toda a capacidade crítica deve ser auditável
+## An Unvalidated Backup Is Only a Hypothesis
 
-Uma organização deve ser capaz de responder:
+The existence of backups does not constitute evidence of recoverability.
 
-- Como fazemos isto?
-- Quem sabe fazer isto?
-- Onde está documentado?
-- Como recuperamos isto?
-
-A incapacidade de responder a qualquer destas perguntas constitui risco.
+Only a successfully executed and validated recovery demonstrates recovery capability.
 
 ---
 
-# Corolário 7
+# Corollary 4
 
-## Versionamento é memória organizacional
+## Human Memory Is Not a Continuity Strategy
 
-Sem histórico não existe evolução observável.
+Human memory should be considered a temporary mechanism.
 
-Sem evolução observável não existe aprendizagem verificável.
-
----
-
-# Corolário 8
-
-## A continuidade degrada-se silenciosamente
-
-A perda de capacidade raramente é súbita.
-
-Normalmente manifesta-se através de:
-
-- documentação desatualizada;
-- dependência crescente de especialistas;
-- conhecimento tácito acumulado;
-- aumento do esforço de onboarding;
-- dificuldade em recuperar sistemas.
+Continuity requires mechanisms that are independent of individuals.
 
 ---
 
-# Corolário 9
+# Corollary 5
 
-## O custo da persistência é sempre inferior ao custo da reconstrução
+## The Longer the Onboarding, the Larger the Hidden Knowledge Factory
 
-O esforço necessário para preservar contexto é normalmente inferior ao esforço necessário para o reconstruir posteriormente.
+The time required to integrate a new individual into a system is often a direct indicator of the amount of implicit knowledge present.
+
+Extended onboarding periods frequently indicate:
+
+- undocumented context;
+- hidden dependencies;
+- excessively distributed knowledge;
+- high persistence debt.
 
 ---
 
-# Corolário 10
+# Corollary 6
 
-## Organizações não perdem conhecimento. Perdem capacidade.
+## All Critical Capability Must Be Auditable
 
-Em muitos casos o conhecimento continua a existir.
+An organization should be able to answer:
 
-O que desaparece é a capacidade de o localizar, interpretar e aplicar.
+- How do we do this?
+- Who knows how to do this?
+- Where is it documented?
+- How do we recover it?
+
+The inability to answer any of these questions represents risk.
+
+---
+
+# Corollary 7
+
+## Versioning Is Organizational Memory
+
+Without history, there is no observable evolution.
+
+Without observable evolution, there is no verifiable learning.
+
+---
+
+# Corollary 8
+
+## Continuity Degrades Silently
+
+Capability loss is rarely sudden.
+
+It typically manifests through:
+
+- outdated documentation;
+- increasing dependency on specialists;
+- accumulated tacit knowledge;
+- growing onboarding effort;
+- difficulty recovering systems.
+
+---
+
+# Corollary 9
+
+## The Cost of Persistence Is Lower Than the Cost of Reconstruction
+
+The effort required to preserve context is generally lower than the effort required to reconstruct it later.
+
+---
+
+# Corollary 10
+
+## Organizations Do Not Lose Knowledge. They Lose Capability.
+
+In many situations, knowledge continues to exist.
+
+What disappears is the ability to locate, interpret and apply that knowledge.
 
