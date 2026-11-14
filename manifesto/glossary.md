@@ -1,111 +1,166 @@
-# Glossário
+# Glossary
 
-## Contexto
+## Context
 
-Conjunto de relações, dependências, decisões, circunstâncias e informação histórica que conferem significado à informação.
+The collection of relationships, dependencies, decisions, circumstances and historical information that provides meaning to information.
 
-A perda de contexto compromete a interpretação correta da informação.
+The loss of context compromises the correct interpretation of information.
 
 ---
 
-## Memória
+## Memory
 
-Mecanismo de retenção de informação ao longo do tempo.
+A mechanism for retaining information over time.
 
-Pode ser:
+Memory may be:
 
-- Humana
-- Organizacional
-- Documental
+- Human
+- Organizational
+- Documentary
 - Digital
 
-A memória não garante continuidade.
+Memory does not guarantee continuity.
+
 
 ---
 
-## Conhecimento
+## Knowledge
 
-Informação compreendida e interpretada por um indivíduo ou organização.
+Information that has been understood and interpreted by an individual or organization.
 
-O conhecimento permite compreender.
+Knowledge enables understanding.
 
-Não garante executar.
-
----
-
-## Conhecimento Implícito
-
-Conhecimento que existe apenas na memória ou experiência dos indivíduos.
-
-Não está formalmente documentado nem representado.
-
-Constitui um risco sempre que seja necessário garantir continuidade.
+Knowledge does not guarantee execution.
 
 ---
 
-## Conhecimento Explícito
+## Implicit Knowledge
 
-Conhecimento documentado ou representado de forma persistente.
+Knowledge that exists only in the memory or experience of individuals.
 
-Pode ser transmitido independentemente do seu autor original.
+It is neither formally documented nor represented.
 
----
-
-## Capacidade
-
-Possibilidade prática de executar uma ação.
-
-A capacidade representa a transformação de conhecimento em ação.
-
-Uma organização pode possuir conhecimento sem possuir capacidade.
+Implicit knowledge becomes a continuity risk whenever long-term capability preservation is required.
 
 ---
 
-## Continuidade
+## Explicit Knowledge
 
-Capacidade de preservar capacidade ao longo do tempo.
+Knowledge that has been documented or persistently represented.
 
-A continuidade existe quando uma atividade permanece executável apesar de:
+It can be transferred independently of its original author.
 
-- mudança de pessoas;
-- mudança de tecnologia;
-- falhas operacionais;
-- perda de contexto;
-- passagem do tempo.
 
 ---
 
-## Persistência
+## Capability
 
-Conjunto de mecanismos utilizados para garantir que contexto, conhecimento, capacidade e continuidade sobrevivem ao esquecimento, à mudança e à falha.
+The practical ability to perform an action.
+
+Capability represents the transformation of knowledge into execution.
+
+An organization may possess knowledge without possessing capability.
 
 ---
 
-## Recuperabilidade
+## Continuity
 
-Capacidade de reconstruir um estado anterior a partir da informação disponível.
+The ability to preserve capability over time.
 
-Um sistema apenas é recuperável quando a recuperação foi validada.
+Continuity exists when an activity remains executable despite:
+
+- personnel changes;
+- technological change;
+- operational failures;
+- loss of context;
+- the passage of time.
+
+
+---
+
+## Persistence
+
+The collection of mechanisms used to ensure that context, knowledge, capability and continuity survive forgetting, change and failure.
+
+---
+
+## Recoverability
+
+The ability to reconstruct a previous state from available information.
+
+A system is recoverable only when recovery has been successfully validated.
+
 
 ---
 
 ## Hidden Knowledge Factory
 
-Conjunto de mecanismos informais e frequentemente invisíveis através dos quais uma organização mantém capacidade operacional.
+The collection of informal and often invisible mechanisms through which an organization maintains operational capability.
 
-Exemplos:
+Examples include:
 
-- emails;
-- mensagens;
-- conhecimento tácito;
-- diretórios históricos;
-- procedimentos não documentados;
-- dependência de especialistas.
+- email-based knowledge;
+- messaging platforms;
+- tacit knowledge;
+- historical directories;
+- undocumented procedures;
+- dependency on specialists.
+
 
 ---
 
-## Dívida de Persistência
+## Persistence Debt
 
-Diferença entre o conhecimento necessário para operar um sistema e o conhecimento explicitamente preservado.
+The difference between the knowledge required to operate a system and the knowledge that has been explicitly preserved.
 
-Quanto maior a dívida de persistência, maior o risco para a continuidade.
+The greater the persistence debt, the greater the continuity risk.
+
+---
+
+## Organizational Memory
+
+The accumulated knowledge, information, practices and experiences that an organization retains and can access over time.
+
+Organizational memory supports continuity but does not guarantee capability preservation.
+
+---
+
+## Versioning
+
+The systematic preservation of historical states and state transitions.
+
+Versioning provides traceability, auditability and organizational memory.
+
+
+---
+
+## Governance
+
+The collection of structures, processes and responsibilities that ensure knowledge, configurations and capabilities remain controlled and accountable.
+
+Governance transforms persistence into a manageable organizational asset.
+
+---
+
+## Continuity Hypothesis
+
+The proposition that capability and continuity represent distinct layers beyond traditional knowledge hierarchies.
+
+The hypothesis can be summarized as:
+
+Knowledge
+        ↓
+Wisdom
+        ↓
+Capability
+        ↓
+Continuity
+
+---
+
+## Laws of Persistence
+
+A collection of principles concerned with preserving capability and continuity across time, change and disruption.
+
+The framework treats continuity as the highest objective of persistence.
+
